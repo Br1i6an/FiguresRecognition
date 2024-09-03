@@ -1,0 +1,5 @@
+train: C:\Users\brian\Desktop\Reconocimiento\Data\train\
+val: C:\Users\brian\Desktop\Reconocimiento\Data\val\
+test:
+nc: 1
+names: ["Yoshi"]
